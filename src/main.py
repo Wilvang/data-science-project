@@ -1,8 +1,6 @@
-print("Hello")
+X = 0
 
-x = 0
-
-if x == 0:
+if X == 0:
     print("You won")
 else:
-    print("you lost")
+    print("You lost")
