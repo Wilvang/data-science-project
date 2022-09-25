@@ -1,3 +1,3 @@
-# My Data Science Environment
+# My Data Science Project
 
-This is my datascience environment for learning purposes.
+This is a data science environment created to be used as a learning platform.
