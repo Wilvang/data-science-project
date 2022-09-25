@@ -1,6 +1,6 @@
 print("Hello")
 
-x = 1
+x = 0
 
 if x == 0:
     print("You won")
